@@ -4,6 +4,19 @@
 
 This repository collects impressive public projects focused on YOLO-based object detection.
 
+## Generic Object Detection
+
+### Models
+
+* [pjh5672/YOLOv1](https://github.com/pjh5672/YOLOv1) - YOLOv1 implementation in PyTorch.
+* [tztztztztz/yolov2.pytorch](https://github.com/tztztztztz/yolov2.pytorch) - YOLOv2 implementation in PyTorch.
+* [ruiminshen/yolo2-pytorch](https://github.com/ruiminshen/yolo2-pytorch) - YOLOv2 implementation in PyTorch.
+* [kuangliu/pytorch-yolov2](https://github.com/kuangliu/pytorch-yolov2) - YOLOv2 implementation in PyTorch.
+* [yxlijun/yolov2-pytorch](https://github.com/yxlijun/yolov2-pytorch) - YOLOv2 implementation in PyTorch.
+* [yjh0410/yolov2-yolov3_PyTorch](https://github.com/yjh0410/yolov2-yolov3_PyTorch) - YOLOv2, and YOLOv3 implementation in PyTorch.
+* [yjh0410/PyTorch_YOLO-Family](https://github.com/yjh0410/PyTorch_YOLO-Family) - YOLOv1, YOLOv2, YOLOv3, YOLOv4, YOLO-Tiny, and YOLO-Nano implementation in PyTorch.
+* [yjh0410/RT-ODLab](https://github.com/yjh0410/RT-ODLab) - YOLOv1, YOLOv2, YOLOv3, YOLOv4, YOLOv5, YOLOv7, YOLOv8, and YOLOX implementation in PyTorch.
+
 ## Face Detection
 
 ### Models
