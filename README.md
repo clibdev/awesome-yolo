@@ -6,6 +6,11 @@ This repository collects impressive public projects focused on YOLO-based object
 
 ## Generic Object Detection
 
+### Weights
+
+* [yolov1.weights](http://pjreddie.com/media/files/yolov1/yolov1.weights) - YOLOv1 Darknet weights.
+* [tiny-yolov1.weights](http://pjreddie.com/media/files/yolov1/tiny-yolov1.weights) - YOLOv1-Tiny Darknet weights.
+
 ### Models
 
 * [pjh5672/YOLOv1](https://github.com/pjh5672/YOLOv1) - YOLOv1 implementation in PyTorch.
