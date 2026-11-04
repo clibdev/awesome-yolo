@@ -24,6 +24,12 @@ This repository collects impressive public projects focused on YOLO-based object
 * [yjh0410/PyTorch_YOLO-Family](https://github.com/yjh0410/PyTorch_YOLO-Family) - YOLOv1, YOLOv2, YOLOv3, YOLOv4, YOLO-Tiny, and YOLO-Nano implementation in PyTorch.
 * [yjh0410/RT-ODLab](https://github.com/yjh0410/RT-ODLab) - YOLOv1, YOLOv2, YOLOv3, YOLOv4, YOLOv5, YOLOv7, YOLOv8, and YOLOX implementation in PyTorch.
 
+## Game Object Detection
+
+### Model Resources
+
+* [YOLOVAL game-detection models](https://github.com/bbshdh56/yoloval-onnx-models) - Game-specific ONNX object detection models with 32 visual examples and a paid model catalog.
+
 ## Face Detection
 
 ### Models
